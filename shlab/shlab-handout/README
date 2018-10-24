@@ -8,9 +8,10 @@ Makefile	# Compiles your shell program and runs the tests
 README		# This file
 tshref		# The reference shell binary.
 
-_main source_
-*tsh.c*		# The shell program that you will write and hand in
-
+main source
+-----------------
+tsh.c		# The shell program that you will write and hand in
+-----------------
 
 
 # The remaining files are used to test your shell
